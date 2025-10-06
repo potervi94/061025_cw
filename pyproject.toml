@@ -7,6 +7,7 @@ dependencies = [
     "fastapi==0.118.0",
     "pip==25.2",
     "pydantic==2.11.10",
+    "requests>=2.32.5",
     "uv==0.8.23",
     "uvicorn[standard]>=0.37.0",
 ]
